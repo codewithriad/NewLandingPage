@@ -1,13 +1,14 @@
 
-import Carousel from '../../Components/Carousel'
+import Hero from "../../Components/Hero/Hero"
+
 
 const Home = () => {
   return (
     <div>
-      {/*DaisyUi Carousel Component*/}
-      <Carousel/>
-      
+
+      <Hero/>
     </div>
+    
   )
 }
 
